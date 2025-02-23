@@ -30,7 +30,8 @@ The goal is to develop an accurate classification model that can help monitor ai
 ## 📂 Dataset
 
 The dataset is sourced from Kaggle, a platform for machine learning and data analytics competitions. It contains 1.2 million+ observations collected from 14 different sensors between December 31, 2018, and February 28, 2020.
-https://www.kaggle.com/code/genjihasky/classification-model-map-visualization/input
+
+[Dataset Link](https://www.kaggle.com/code/genjihasky/classification-model-map-visualization/input)
 
 ## 🔹 Attribute Information
 
@@ -102,7 +103,7 @@ The dataset consists of 14 columns, including:
  • Folium (Geographical visualization)
 
 ## 📊 Results & Insights
- • The best-performing model **XGBoost** achieved:
+ The best-performing model **XGBoost** achieved:
  
  **• Accuracy:** 99.3%
  
