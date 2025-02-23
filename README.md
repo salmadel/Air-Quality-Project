@@ -16,7 +16,7 @@ The goal is to develop an accurate classification model that can help monitor ai
  
  • Enhance awareness of air pollution trends for better environmental management.
 
-## 💻 Team Members
+## 👥 Team Members
 **1. Dr/** [Mohamed Elsayed Nassar](https://github.com/Mohamed-Nassar88)
 
 **2. Dr/** [Amal Adel Sheta](https://github.com/DrAmalSheta)
