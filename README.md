@@ -1,13 +1,13 @@
 # Air Quality Classification using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 Air pollution is a critical environmental issue that impacts public health and overall quality of life. This project utilizes machine learning to classify air quality as Normal or Abnormal, helping in effective monitoring and decision-making. By analyzing key environmental factors, the model identifies pollution patterns and provides actionable insights.
 
 The project follows a structured workflow, including Exploratory Data Analysis (EDA) to understand patterns, data preprocessing to clean and prepare the data, and model training using XGBoost, a powerful gradient boosting algorithm. The trained model is then evaluated to ensure high accuracy, and the results are visualized for better interpretation.
 
 The goal is to develop an accurate classification model that can help monitor air pollution and support proactive environmental actions.
 
-## 🎯 Project Objectives
+## Project Objectives
  • Build a highly accurate air quality classification model.
  
  • Identify key environmental factors that influence air pollution levels.
@@ -16,7 +16,7 @@ The goal is to develop an accurate classification model that can help monitor ai
  
  • Enhance awareness of air pollution trends for better environmental management.
 
-## 👥 Team Members
+## Team Members
 **1. Dr/** [Mohamed Elsayed Nassar](https://github.com/Mohamed-Nassar88)
 
 **2. Dr/** [Amal Adel Sheta](https://github.com/DrAmalSheta)
@@ -27,13 +27,13 @@ The goal is to develop an accurate classification model that can help monitor ai
 
 **5. Eng/** [Salma Adel Saleh](https://github.com/salmadel)
 
-## 📂 Dataset
+## Dataset
 
 The dataset is sourced from Kaggle, a platform for machine learning and data analytics competitions. It contains 1.2 million+ observations collected from 14 different sensors between December 31, 2018, and February 28, 2020.
 
 [Dataset Link](https://www.kaggle.com/code/genjihasky/classification-model-map-visualization/input)
 
-## 🔹 Attribute Information
+## Attributes Information
 
 The dataset consists of 14 columns, including:
 
@@ -65,7 +65,7 @@ The dataset consists of 14 columns, including:
  
  **14. label** – Target variable: Normal (Good air quality) or Abnormal (Poor air quality).
 
-## 🚀 Project Workflow
+## Project Workflow
  #### 1. Exploratory Data Analysis (EDA)
  • Understanding data distribution and patterns
 
@@ -91,7 +91,7 @@ The dataset consists of 14 columns, including:
  
  • Mapping air quality predictions on a geographical scale
 
-## 🛠️ Technologies Used
+## Used Technologies
  • Python
  
  • Pandas, NumPy (Data processing)
@@ -102,7 +102,7 @@ The dataset consists of 14 columns, including:
  
  • Folium (Geographical visualization)
 
-## 📊 Results & Insights
+## Results & Insights
  The best-performing model **XGBoost** achieved:
  
  **• Accuracy:** 99.3%
